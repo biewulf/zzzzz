@@ -2,7 +2,7 @@ package hiber;
 import java.util.List;  
 import java.util.Date; 
 import java.util.Iterator;   
-
+//prueba
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
